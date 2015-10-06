@@ -3,3 +3,7 @@
 This is a new file
 
 Second line in the new file
+
+Third line
+
+Last line
