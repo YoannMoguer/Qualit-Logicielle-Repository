@@ -1,3 +1,3 @@
-Shi Xiaxing - starsasumi
-Moguer Yoann - YoannMoguer
-// i don't know
+Shi Xiaxing - starsasumi; 
+Moguer Yoann - YoannMoguer; 
+De Vita Augustin - augustindv
