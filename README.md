@@ -1,6 +1,6 @@
 # TP-2015-ShiXiaxing-DeVitaAugustin-MoguerYoann
 
-This is a school project to practise git
+This is a school project to practice git
 
 ## Contributor
 
