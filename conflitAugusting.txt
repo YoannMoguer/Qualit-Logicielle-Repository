@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ceci est un conflit
+=======
+Ceci n'est pas un conflit
+>>>>>>> AugustinBranch
